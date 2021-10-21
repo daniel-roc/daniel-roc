@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Rocha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Web Development Student</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
