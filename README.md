@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I'm Daniel Rocha</h1>
-<h3 align="center">A Web Development Student</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and Javascript**
 
